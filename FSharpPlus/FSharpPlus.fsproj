@@ -58,6 +58,7 @@
     <Compile Include="Option.fs" />
     <Compile Include="Error.fs" />
     <Compile Include="Cont.fs" />
+    <Compile Include="Update.fs" />
     <Compile Include="Reader.fs" />
     <Compile Include="Writer.fs" />
     <Compile Include="State.fs" />
